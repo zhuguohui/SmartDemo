@@ -54,14 +54,7 @@ public class DemoPagePolicy implements IPagePolicy {
         NetRequest request=new NetRequest();
         String url = mBaseUrl;
         if (index != 0) {
-            int i = url.lastIndexOf(".json");
-            if (i != -1) {
-                StringBuilder stringBuilder = new StringBuilder(url);
-                stringBuilder.insert(i, "_" + index);
-                url = stringBuilder.toString();
-            } else {
                 url = mBaseUrl+"_"+index;
-            }
         }
         request.setUrl(url);
         return request;

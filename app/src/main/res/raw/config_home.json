@@ -1,6 +1,5 @@
 {
   "url": "raw://data_home",
-  // "url": "http://113.207.120.15:7070/pub/cqpatent/app.json",
   "jsonConfigs": [
     {
       "jsonLocation": "{response[topic_datas",

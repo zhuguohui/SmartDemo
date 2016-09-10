@@ -1,13 +1,9 @@
 package com.zgh.smartdemo.bean;
 
 /**
- * Created by yuelin on 2016/8/17.
+ * Created by zhuguohui on 2016/8/17.
  */
 public class ChannelItem {
-
-
-
-
     private String title;
     private int clickType;
     private String icon;

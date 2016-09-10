@@ -2,7 +2,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent">
-
     <TextView
         android:id="@+id/tv_fixed_head"
         android:layout_width="match_parent"
@@ -12,7 +11,6 @@
         android:text="固定头部"
         android:textColor="#ffffff"
         android:textSize="20sp" />
-
     <LinearLayout
         android:id="@id/ListViewHolder"
         android:layout_width="match_parent"
