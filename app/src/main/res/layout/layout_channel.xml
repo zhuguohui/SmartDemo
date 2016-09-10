@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#bbbbbb"
+    android:orientation="vertical">
+
+    <com.zgh.smartdemo.view.PageGridView
+        app:PagingColums="4"
+        app:PagingRows="1"
+        app:PagingDiver="@drawable/divider_bg"
+        android:id="@+id/pageGridView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/pageGridView"
+        android:background="@color/colorGray1"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp">
+
+        <com.zgh.smartdemo.view.ChannelPageIndicator
+            android:gravity="center"
+            android:background="@color/colorGray1"
+            android:id="@+id/channelPageIndicator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+
+</RelativeLayout>

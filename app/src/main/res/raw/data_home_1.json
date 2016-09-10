@@ -1,0 +1,223 @@
+{
+  "code": 0,
+  "message": "获取首页数据成功",
+  "response": {
+    "page_info": {
+      "page_count": 2,
+      "page_index": 1
+    },
+    "centers": [
+      {
+        "title": "资讯中心",
+        "clickType": 10,
+        "icon": "https://cdn0.iconfinder.com/data/icons/seo-flat-long-shadow-1/512/Press_Release-128.png",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/zxzx/app.json"
+      },
+      {
+        "title": "区域中心",
+        "clickType": 11,
+        "icon": "https://cdn3.iconfinder.com/data/icons/landscape-1/402/35-128.png",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/qyzx/app.json"
+      },
+      {
+        "title": "服务中心",
+        "clickType": 12,
+        "icon": "https://cdn4.iconfinder.com/data/icons/flat-rounded-seo-icons/80/webdesign-service-128.png",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/fwzx/app.json"
+      },
+      {
+        "title": "应用中心",
+        "clickType": 13,
+        "icon": "https://cdn3.iconfinder.com/data/icons/ultimate-social/150/07_app_store-128.png",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/yyzx/app.json"
+      }
+    ],
+    "channels": [
+      {
+        "title": "智能分析",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "在线分析",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "专利申请",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "专利托管",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "专利资助",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "中介结构",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "举报投诉",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "表格下载",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://www.cqipo.gov.cn/templet/default/ShowClass.jsp?id=bm_sq&root_id=bmfw"
+      },
+      {
+        "title": "专利公开",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://218.70.88.211:8089/userreg_exp_first.asp"
+      },
+      {
+        "title": "法律状态",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://218.70.88.211:8089/userreg_exp_first.asp"
+      },
+      {
+        "title": "收费信息",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://218.70.88.211:8089/userreg_exp_first.asp"
+      },
+      {
+        "title": "代理机构",
+        "clickType": 2,
+        "icon": "http://img.ui.cn/data/file/4/1/9/147914.jpg",
+        "url": "http://218.70.88.211:8089/userreg_exp_first.asp"
+      }
+    ],
+    "topic_datas": [
+      {
+        "docId": 960,
+        "title": "申长雨一行赴重庆就知识产权支撑产业发展进行调研",
+        "content": "<br/>　　 <br/>　　 近日，国家知识产权局局长申长雨一行赴重庆就知识产权支撑产业发展进行调研。在渝期间，...",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://113.207.120.15:7070/preview/cqpatent/rdxw/201605/W020160506575580565855.jpg"
+        ],
+        "date": "2016-08-18 15:54:00",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/rdxw/201605/t20160506_960.html"
+      },
+      {
+        "docId": 939,
+        "title": "重庆市迅速贯彻落实全国打击侵权假冒电视电话会议精神",
+        "content": "<br/>　　 <br/>　　 <br/>　　 <br/>　　    <br/>　　 <br/>　　会议现场 <br/>　　 <br/>　　 <br/>　　市人民政府副市长吴刚作...",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://113.207.120.15:7070/preview/cqpatent/rdxw/201604/W020160425400784902500.jpg"
+        ],
+        "date": "2016-04-25 10:54:00",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/rdxw/201604/t20160425_939.html"
+      },
+      {
+        "docId": 840,
+        "title": "2015年中国知识产权发展状况新闻发布会在京举行",
+        "content": "&nbsp;4月19日，作为2016年全国知识产权宣传周的重要活动之一，2015年中国知识产权发展状况新闻发布会在京举...",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://113.207.120.15:7070/preview/cqpatent/rdxw/201604/W020160420581103384535.jpg"
+        ],
+        "date": "2016-04-20 16:05:00",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/rdxw/201604/t20160420_840.html"
+      },
+      {
+        "docId": 460,
+        "title": "“新能源汽车技术创新与知识产权保护”论坛在我市举行",
+        "content": "<br/>　　    <br/>　　 <br/>　　重庆市新能源汽车技术创新与知识产权保护论坛开班仪式  <br/>　　12月8日，由重...",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://113.207.120.15:7070/preview/cqpatent/rdxw/201603/W020160329745656101227.jpg"
+        ],
+        "date": "2016-03-23 14:39:00",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/rdxw/201603/t20160329_460.html"
+      }
+    ],
+    "datas": [
+      {
+        "docId": 459,
+        "title": "官场“雅贿”：古董来者不拒 官员大作卖出天价",
+        "content": "根据媒体此前报道,广州军转办原主任叶页因受贿罪一审获刑,他曾收受一幅价值4万元的庞泰嵩横幅山水国画,此事引起公众对于“官员雅贿”的关注。",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/news/pics/hv1/55/14/2127/138311800.jpg"
+        ],
+        "date": "2016-08-18 14:37:00",
+        "url": "http://news.qq.com/a/20160910/003448.htm"
+      },
+      {
+        "docId": 459,
+        "title": "中国首次观测到地球“杀手”小行星 或直冲地球",
+        "content": "据新华社电 7日晚，借助有着亚洲最大“地球哨兵”之称的1.2米口径近地天体望远镜，中科院紫金山天文台研究人员在盱眙观测基地首次观测到小行星2009ES。",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/news/pics/hv1/20/122/2126/138274280.jpg"
+        ],
+        "date": "2016-08-18 14:37:00",
+        "url": "http://news.qq.com/a/20160909/002959.htm"
+      },
+      {
+        "docId": 351,
+        "title": "美国波士顿大学17岁中国留学生被火车撞死",
+        "content": "参考消息网9月9日报道美媒称，波士顿大学一名来自中国的17岁学生在该市被一列通勤列车撞击致死。运输警察署警长理查德·沙利文称，这名男生之死很可能是一起“悲惨的意外”",
+        "docType": 2,
+        "clickType": 1,
+        "images": [],
+        "date": "2016-03-23 14:33:00",
+        "url": "http://news.qq.com/a/20160909/000912.htm"
+      },
+      {
+        "docId": 955,
+        "title": "百年古樟肚里长新树 形成“树中树”奇观",
+        "content": "9月6日，在江西省东乡县詹圩镇曾家村后万组村头拍摄的“树中树”奇观。一棵历经数百年风雨的古樟肚中长出一棵新树，新树长出的新枝叶成为了古樟的“树冠”，两树合为一体，你中我有，我中有你，非常神奇。视觉中国",
+        "docType": 3,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/17/1746/174699/17469986_1200x1000_0.jpg",
+          "http://img1.gtimg.com/17/1746/174699/17469989_1200x1000_0.jpg",
+          "http://img1.gtimg.com/17/1746/174699/17469987_1200x1000_0.jpg"
+        ],
+        "date": "2016-04-27 11:09:00",
+        "url": "http://news.qq.com/a/20160909/006058.htm#p=3"
+      },
+
+      {
+        "docId": 459,
+        "title": "泰国政府发言人：泰国支持中国维护海洋和平的努力",
+        "content": "国际在线专稿：据英国路透社9月7日报道，周三（9月7日），泰国政府发言人素空塔帕提帕克(Weerachon Sukondhapatipak)称，在南海地区争端中，泰国支持中国维护海洋和平的努力",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/news/pics/hv1/85/0/2126/138243235.jpg"
+        ],
+        "date": "2016-08-18 14:37:00",
+        "url": "http://news.qq.com/a/20160908/016991.htm"
+      }
+    ]
+  }
+}

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_fixed_head"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#000000"
+        android:gravity="center"
+        android:text="固定头部"
+        android:textColor="#ffffff"
+        android:textSize="20sp" />
+
+    <LinearLayout
+        android:id="@id/ListViewHolder"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/tv_fixed_head"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_head1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#FF7634"
+            android:gravity="center"
+            android:text="自定义Head1"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/tv_head2"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#55CBA2"
+            android:gravity="center"
+            android:text="自定义Head2"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@id/ListViewContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="100"
+            android:background="#eeeeee"
+            android:gravity="center"
+            android:text="ListView"
+            android:textColor="#000000"
+            android:textSize="40sp" />
+
+        <TextView
+            android:id="@+id/tv_footer1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#3245E0"
+            android:gravity="center"
+            android:text="自定义Footer"
+            android:textColor="@android:color/white"
+            android:textSize="20sp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_fload_view"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="100dp"
+        android:layout_marginRight="20dp"
+        android:background="#7DB2C4"
+        android:gravity="center"
+        android:text="浮动View"
+        android:textColor="#ffffff" />
+</RelativeLayout>

@@ -1,0 +1,31 @@
+{
+  "url": "raw://data_home",
+  // "url": "http://113.207.120.15:7070/pub/cqpatent/app.json",
+  "jsonConfigs": [
+    {
+      "jsonLocation": "{response[topic_datas",
+      "type": "com.zgh.smartdemo.bean.BannerItem"
+    },
+    {
+      "jsonLocation": "{response[centers",
+      "type": "com.zgh.smartdemo.bean.ChannelItem"
+    },
+    {
+      "jsonLocation": "{response[channels",
+      "type": "com.zgh.smartdemo.bean.ChannelItem"
+    },
+    {
+      "jsonLocation": "{response[datas",
+      "type": "com.zgh.smartdemo.bean.NewsItem",
+      "isListData": "true"
+    }
+  ],
+  "holders": [
+    "com.zgh.smartdemo.viewholder.NewsBannerViewHolder",
+    "com.zgh.smartdemo.viewholder.ChannelViewHolder",
+    "com.zgh.smartdemo.viewholder.ADViewHolder",
+    "com.zgh.smartdemo.viewholder.MultiImageViewHolder",
+    "com.zgh.smartdemo.viewholder.NoImageViewHolder",
+    "com.zgh.smartdemo.viewholder.OneImageViewHolder"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "code": 0,
+  "message": "获取首页数据成功",
+  "response": {
+    "page_info": {
+      "page_count": 2,
+      "page_index": 0
+    },
+    "centers": [
+      {
+        "title": "新车",
+        "clickType": 10,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=88&h=88&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-17035.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "SUV",
+        "clickType": 11,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=88&h=88&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-17037.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "豪车",
+        "clickType": 12,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=88&h=88&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-17038.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "电动车",
+        "clickType": 13,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=88&h=88&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-17039.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      }
+    ],
+    "channels": [
+      {
+        "title": "王者荣耀",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-30700.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "围攻大萝卜",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-32211.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "御龙在天",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-28647.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "全民斗争神",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-26928.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "高手",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-30697.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "诛仙",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-28645.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "永恒纪元",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-27320.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "黎明之光",
+        "clickType": 2,
+        "icon": "http://cdn.read.html5.qq.com/image?src=3gqq&subsrc=index&q=6&r=4&imgflag=32&w=80&h=80&imageUrl=http://zxpic.gtimg.com/infonew/0/upload_pics_-32417.jpg/0%3Fwebp%3D1",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "掌上NBA",
+        "clickType": 2,
+        "icon": "http://pp.myapp.com/ma_icon/0/icon_10565180_18291604_1415642634/96",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "开心消消乐",
+        "clickType": 2,
+        "icon": "http://pp.myapp.com/ma_icon/0/icon_10556677_20765101_1427336817/96",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "欢乐斗牛",
+        "clickType": 2,
+        "icon": "http://pp.myapp.com/ma_icon/0/icon_1192257_20852099_1428484011/96",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      },
+      {
+        "title": "地铁跑酷",
+        "clickType": 2,
+        "icon": "http://pp.myapp.com/ma_icon/0/icon_273948_20953977_1429769886/96",
+        "url": "http://info.3g.qq.com/g/s?sid=00&aid=index&g_ut=3"
+      }
+
+    ],
+    "topic_datas": [
+      {
+        "docId": 960,
+        "title": "住建部：支持上海严厉打击房地产中介造谣的行为",
+        "content": "近日，针对网络上流传的“9月起上海市将实行购房信贷新政”的谣言，上海市住房城乡建设委进行了紧急辟谣，",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/news/pics/hv1/68/49/2127/138320738.jpg"
+        ],
+        "date": "2016-08-18 15:54:00",
+        "url": "http://news.qq.com/a/20160910/022433.htm"
+      },
+      {
+        "docId": 939,
+        "title": "安监总局司长李万春“空降”广西任贵港市委副书记",
+        "content": "据贵港新闻网报道，9月8日下午，广西贵港市委书记李新元主持召开五届市委常委会第2次会议，传达学习全区设区市党委秘书长会议精神",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/news/pics/hv1/29/49/2127/138320699.jpg"
+        ],
+        "date": "2016-04-25 10:54:00",
+        "url": "http://news.qq.com/a/20160910/022384.htm"
+      },
+      {
+        "docId": 840,
+        "title": "武汉现新郎骑白马抬花轿迎亲",
+        "content": "9月9日，武汉中山社区里的唢呐声、锣鼓声不绝于耳，一名骑着白马的新郎官领着花轿出现在人群之中，媒婆、轿夫、吹拉弹唱者等迎亲队伍也个个身着中式古装。苗剑/视觉中国",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/17/1749/174947/17494744_1200x1000_0.jpg"
+        ],
+        "date": "2016-04-20 16:05:00",
+        "url": "http://news.qq.com/a/20160910/021245.htm#p=1"
+      },
+      {
+        "docId": 460,
+        "title": "陆军首支女子导弹连首次驾驭某新型导弹两发两中",
+        "content": "初秋西北、戈壁深处，战车列阵、波诡云谲。“发射！”9月6日上午8时26分，随着脆亮的声音传来，一枚导弹弹射升空、瞬间点火，拖着烈焰直扑“猎物”。",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/news/pics/hv1/156/43/2127/138319296.png"
+        ],
+        "date": "2016-03-23 14:39:00",
+        "url": "http://news.qq.com/a/20160910/020074.htm"
+      }
+    ],
+    "datas": [
+      {
+        "docId": 459,
+        "title": "故宫院长鼓励拍照：游客把文物信息带到朋友圈",
+        "content": "中新网北京9月9日电(记者 宋宇晟)博物馆能否拍照，一直以来都是容易引起争议的话题。博物馆在保护文物的同时，还要照顾到观众参观体验。",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://www.chinanews.com/2016/0908/201698113945.jpg"
+        ],
+        "date": "2016-08-18 14:37:00",
+        "url": "http://news.qq.com/a/20160909/000684.htm"
+      },
+      {
+        "docId": 351,
+        "title": "美国波士顿大学17岁中国留学生被火车撞死",
+        "content": "参考消息网9月9日报道美媒称，波士顿大学一名来自中国的17岁学生在该市被一列通勤列车撞击致死。运输警察署警长理查德·沙利文称，这名男生之死很可能是一起“悲惨的意外”",
+        "docType": 2,
+        "clickType": 1,
+        "images": [],
+        "date": "2016-03-23 14:33:00",
+        "url": "http://news.qq.com/a/20160909/000912.htm"
+      },
+      {
+        "docId": 955,
+        "title": "组图：中国最大淡水湖面积1个月缩小三分之一",
+        "content": "9月7日，江西九江，自8月5日长江九江段、鄱阳湖全线退下警戒水位以来，受长江来水量及降雨减少影响，我国最大淡水湖鄱阳湖持续“瘦身”。",
+        "docType": 3,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/17/1747/174772/17477201_980x1200_0.jpg",
+          "http://img1.gtimg.com/17/1747/174772/17477202_980x1200_0.jpg",
+          "http://img1.gtimg.com/17/1747/174772/17477203_980x1200_0.jpg"
+        ],
+        "date": "2016-04-27 11:09:00",
+        "url": "http://news.qq.com/a/20160909/006058.htm#p=3"
+      },
+      {
+        "docId": 809,
+        "title": "习近平回到母校看望师生 祝贺教师节",
+        "content": "<br/>　　",
+        "docType": 4,
+        "clickType": 1,
+        "images": [
+          "http://inews.gtimg.com/newsapp_bt/0/566134472/641"
+        ],
+        "date": "2016-04-20 14:47:00",
+        "url": "http://113.207.120.15:7070/pub/cqpatent/rdxw/201604/t20160420_809.html"
+      },
+      {
+        "docId": 459,
+        "title": "广东名嘴涉嫌文物诈骗五千多万 陈维聪否认控罪",
+        "content": "广东名嘴,活跃在广东电视界20年的粤语主持人陈维聪摊上大事了。去年9月22日,陈维聪因古董买卖被警方专案侦查。",
+        "docType": 1,
+        "clickType": 1,
+        "images": [
+          "http://img1.gtimg.com/news/pics/hv1/52/14/2127/138311797.jpg"
+        ],
+        "date": "2016-08-18 14:37:00",
+        "url": "http://news.qq.com/a/20160910/003372.htm"
+      }
+    ]
+  }
+}
